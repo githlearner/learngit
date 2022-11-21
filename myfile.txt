@@ -1,12 +1,9 @@
 initial commit on Saturday July 23rd 11 AM
 second commit
-
 first commit as master
 second commit as master
 third
 fourth
-
-
-
 first commit in feature branch
 commit in feaature
+first commit in feature branch
