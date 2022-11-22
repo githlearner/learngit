@@ -3,7 +3,4 @@ wat is this
 first commit in feature
 second commit in feature
 third commit in feature
-feature commit
-
-
-
+feature committ
