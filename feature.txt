@@ -1,10 +1,9 @@
 feature text file to see branches
-<<<<<<< HEAD
 wat is this
 first commit in feature
 second commit in feature
 third commit in feature
 feature commit
-=======
-wat is this
->>>>>>>  something again
+
+
+
